@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Varun Achar
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=2F80ED&center=true&vCenter=true&width=700&lines=Electronics+%26+Communication+Engineer;Embedded+Systems+Intern+at+Ingersoll+Rand;Intrested+in+VLSI+embedded+systems+and+IIOT" alt="Animated introduction">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=2F80ED&center=true&vCenter=true&width=700&lines=Electronics+%26+Communication+Engineer;Embedded+Systems+Intern+at+Ingersoll+Rand;VLSI,+embedded+systems+and+IIOT" alt="Animated introduction">
 
 ### Electronics & Communication Engineering Student  
 **Embedded Systems · Electronics · System Integration · RF & Radar**
